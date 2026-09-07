@@ -68,7 +68,7 @@ suggestions.
 - 🏆 ATS-based candidate ranking
 - 🔐 JWT authentication
 
-🔗 [Live Demo](https://lnkd.in/gqG2w6ie)
+🔗 [Live Demo](https://resume-analyzer-sand-iota.vercel.app/)
 🔗 [GitHub Repository](https://github.com/gauravbhore33/resume-analyzer)
 
 ---
